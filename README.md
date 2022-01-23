@@ -37,7 +37,7 @@
 
 - 📫 How to reach me:
 
-    * [**Drop a Mail**](arpisingh_19689@aitpune.edu.in)
+    * [**Drop a Mail**](mailto: arpisingh_19689@aitpune.edu.in)
 
     * [**Connect via LinkedIn**](https://www.linkedin.com/in/arpit45)
 

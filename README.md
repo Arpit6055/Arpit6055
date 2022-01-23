@@ -39,7 +39,7 @@
 
     * [**Drop a Mail**](mailto: arpisingh_19689@aitpune.edu.in)
 
-    * [**Connect via LinkedIn**](https://github.com/Arpit6055)
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/arpit45)
 
     <!-- * [**Visit my Website**]() -->
     

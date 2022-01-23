@@ -13,7 +13,7 @@
 
 <br/>
 
-- 🙌 I'm currently open to: **Full-Stack Web Development Roles(Fresher)  | DevOps (Fresher)Roles**
+- 🙌 I'm currently open to: **Full-Stack Web Development(Fresher)Roles | DevOps (Fresher)Roles**
 
 <br/><br/>
 

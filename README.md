@@ -40,9 +40,6 @@
 -    * [**Connect via LinkedIn**](https://www.linkedin.com/in/arpit45)
      * [**Drop a Mail**](mailto: arpisingh_19689@aitpune.edu.in)
 
-   
-
-    <!-- * [**Visit my Website**]() -->
     
 <div align="center">
 <img src="https://github.com/Arpit6055/Arpit6055/blob/master/connected.gif" alt="Arpit Singh" width="350" height="200" />

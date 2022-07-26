@@ -33,13 +33,14 @@
 
 - 💬 Ask me about: **Science & Technology | Cycling | Music | Camping | Adventure**
 
-- 🤓 Active User at: **GitHub | LinkedIn**
+- 🤓 Active User at: **GitHub | LinkedIn | leetcode**
 
 - 📫 How to reach me:
+-    * [**Leetcode account**](https://leetcode.com/arpit/)
+-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/arpit45)
+     * [**Drop a Mail**](mailto: arpisingh_19689@aitpune.edu.in)
 
-    * [**Drop a Mail**](mailto: arpisingh_19689@aitpune.edu.in)
-
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/arpit45)
+   
 
     <!-- * [**Visit my Website**]() -->
     

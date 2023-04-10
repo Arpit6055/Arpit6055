@@ -38,7 +38,7 @@
 - 📫 How to reach me:
 -    * [**Leetcode account**](https://leetcode.com/arpit/)
 -    * [**Connect via LinkedIn**](https://www.linkedin.com/in/arpit45)
-     * [**Drop a Mail**](sarpit4545@gmail.com)
+     * [**Contact Us**](mailto:admin@w3schools.io)(sarpit4545@gmail.com)
 
     
 <div align="center">

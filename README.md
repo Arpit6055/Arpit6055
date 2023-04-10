@@ -45,8 +45,6 @@
 <img src="https://github.com/Arpit6055/Arpit6055/blob/master/connected.gif" alt="Arpit Singh" width="350" height="200" />
 </div>
 
-- 😄 Pronouns: **He/Him**
-
 - ⚡ Fun Facts: 
 
     * *Besides programming, I'm an Cyclist, a **Melophile** and love to Travel an camp.*
